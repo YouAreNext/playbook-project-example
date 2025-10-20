@@ -1,0 +1,1 @@
+export { useTripQuery } from './useTripQuery';
